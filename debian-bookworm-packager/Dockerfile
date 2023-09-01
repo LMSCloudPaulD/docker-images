@@ -11,6 +11,7 @@ RUN apt-get update && \
   fakeroot \
   git \
   git-buildpackage \
+  gnupg \
   lintian \
   tree \
   vim
